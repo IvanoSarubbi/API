@@ -1,0 +1,23 @@
+.main{
+	width:600px;
+	border: 2px solid #486060;
+	margin:0 auto;
+	background-color: #DBF2F2;
+	border-radius: 20px;
+	text-align: center;
+	padding:1em;
+	font-family: 'Poiret One', cursive;
+}
+
+ul {
+   list-style:none;
+   
+}
+
+ul > li{
+	background-color: white;
+   padding:10px;
+   border-radius: 10px;
+   border:1px solid #486060;
+   margin:10px;
+}
